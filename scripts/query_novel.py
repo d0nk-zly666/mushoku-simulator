@@ -185,7 +185,8 @@ def scan_chapter_for_tokens(
     tokens: List[str],
     window_size: int = 5,
     dialogue_only: bool = False,
-    context_lines: int = 2
+    context_lines: int = 2,
+    start_line: int = 1
 ) -> Tuple[List[Dict[str, Any]], int]:
     """
     在单章行列表中扫描 tokens 的段落滑动窗口共现。
@@ -197,6 +198,8 @@ def scan_chapter_for_tokens(
     # 1. 扫描每一行的 token 命中情况与对白情况
     line_hits = []
     for idx, line in enumerate(lines):
+        if (idx + 1) < start_line:
+            continue
         hits = set()
         for t, pat in zip(tokens, token_patterns):
             if pat.search(line):
@@ -285,7 +288,9 @@ def search_novel(
     limit: int = 5,
     context_lines: int = 2,
     window_size: int = 5,
-    exact_mode: bool = False
+    exact_mode: bool = False,
+    start_line: int = 1,
+    max_matches: int = 5
 ) -> Tuple[List[Dict[str, Any]], Optional[Dict[str, Any]]]:
     """
     执行高精度全文检索，支持多词共现与智能降级。
@@ -328,6 +333,9 @@ def search_novel(
         for item in filtered_manifest[:limit if limit > 0 else None]:
             content = read_chapter_content(item)
             body = re.sub(r'^---.*?---\s*', '', content, flags=re.DOTALL)
+            lines = body.splitlines()
+            base_dir = item.get('_base_dir', WEB_CORPUS_DIR)
+            abs_path = os.path.abspath(os.path.join(base_dir, item['relative_path']))
             results.append({
                 "scope": item.get('_scope', 'web'),
                 "chapter_id": item['id'],
@@ -337,6 +345,8 @@ def search_novel(
                 "canonical_status": item.get('canonical_status', item.get('light_novel_vol', '')),
                 "word_count": item['word_count'],
                 "relative_path": item['relative_path'],
+                "absolute_path": abs_path,
+                "total_lines": len(lines),
                 "matched_count": 0,
                 "score": 0,
                 "matches": [],
@@ -366,13 +376,17 @@ def search_novel(
                 tokens=search_tokens,
                 window_size=window_size,
                 dialogue_only=dialogue_only,
-                context_lines=context_lines
+                context_lines=context_lines,
+                start_line=start_line
             )
 
             if snippets:
                 # 若包含原始字面完整短语，给予额外相关度加分
                 if keyword in body:
                     ch_score += 200
+
+                base_dir = item.get('_base_dir', WEB_CORPUS_DIR)
+                abs_path = os.path.abspath(os.path.join(base_dir, item['relative_path']))
 
                 plan_results.append({
                     "scope": item.get('_scope', 'web'),
@@ -383,10 +397,12 @@ def search_novel(
                     "canonical_status": item.get('canonical_status', item.get('light_novel_vol', '')),
                     "word_count": item['word_count'],
                     "relative_path": item['relative_path'],
+                    "absolute_path": abs_path,
+                    "total_lines": len(lines),
                     "matched_count": len(snippets),
                     "score": ch_score,
                     "matched_terms": search_tokens,
-                    "matches": snippets[:5]
+                    "matches": snippets[:max_matches]
                 })
 
         plan_results.sort(key=lambda x: x['score'], reverse=True)
@@ -432,7 +448,9 @@ def search_novel(
             scope=scope,
             limit=3,
             dialogue_only=dialogue_only,
-            exact_mode=exact_mode
+            exact_mode=exact_mode,
+            start_line=start_line,
+            max_matches=max_matches
         )
         if unfiltered_res:
             active_filters = []
@@ -478,8 +496,9 @@ def print_text_results(results: List[Dict[str, Any]], keyword: str, fallback_inf
         scope_tag = "[外传]" if r.get('scope') == 'gaiden' else "[正传]"
         score_tag = f"匹配度: {r.get('score', 0)}" if r.get('score') else ""
         print(f"\n({idx}) {scope_tag} 【{r['volume']}】 {r['title']}  ({score_tag})")
-        print(f"    - 对应正史/定位: {r.get('canonical_status', '')} | 章节字数: {r['word_count']:,} 字 | 路径: {r['relative_path']}")
-        print(f"    - 命中片段数: {r['matched_count']} 处")
+        print(f"    - 对应正史/定位: {r.get('canonical_status', '')} | 章节字数: {r['word_count']:,} 字")
+        print(f"    - 绝对路径 (供 view_file 直接读取): {r.get('absolute_path', r.get('relative_path', ''))}")
+        print(f"    - 命中片段数: {r['matched_count']} 处 | 全文总行数: {r.get('total_lines', 0)} 行")
         print("    " + "-" * 74)
 
         if not keyword and "content_preview" in r:
@@ -487,7 +506,7 @@ def print_text_results(results: List[Dict[str, Any]], keyword: str, fallback_inf
             for pline in r['content_preview'].splitlines()[:15]:
                 if pline.strip():
                     print(f"      {pline.strip()}")
-            print("      ...... (剩余内容请使用 view_file 查看)")
+            print(f"      ...... (完整正文请调用 view_file 直接研读: {r.get('absolute_path', '')})")
             continue
 
         for m_idx, m in enumerate(r['matches'], 1):
@@ -498,7 +517,23 @@ def print_text_results(results: List[Dict[str, Any]], keyword: str, fallback_inf
                 print("      [段落共现切片]:")
                 for cline in m['context'].splitlines():
                     print(f"      {cline}")
-    print("\n" + "=" * 80 + "\n")
+
+    if results:
+        top_res = results[0]
+        abs_p = top_res.get('absolute_path', '')
+        tot_l = top_res.get('total_lines', 0)
+        first_m = top_res['matches'][0]['line_num'] if top_res.get('matches') else 1
+        s_line = max(1, first_m - 10)
+        e_line = min(tot_l if tot_l else first_m + 150, first_m + 150)
+        print("\n" + "=" * 80)
+        print("💡 [Agent 原著研读指引 - 两步法协议]")
+        print("已成功定位章节！CLI 检索已完成。严禁继续在命令行反复试探猜参数！")
+        print(f"下一步必须立刻调用 view_file 工具通读原著段落（界面将显示为 Analyzed）：")
+        print(f"  view_file(AbsolutePath=r\"{abs_p}\", StartLine={s_line}, EndLine={e_line})")
+        print("通读原著真实对白、受挫与动作细节后再开始叙事！")
+        print("=" * 80 + "\n")
+    else:
+        print("\n" + "=" * 80 + "\n")
 
 def list_volumes():
     """打印正传 24 卷概览"""
@@ -572,6 +607,8 @@ def main():
     parser.add_argument("-v", "--volume", help="筛选正传卷次编号（1~24）或卷名关键词")
     parser.add_argument("-s", "--series", help="筛选外传系列名或系列代号（如'古龙昔话'、'专职篇'、'蛇足篇'）")
     parser.add_argument("-c", "--chapter", help="筛选章节序号或标题关键词")
+    parser.add_argument("-S", "--start-line", type=int, default=1, help="仅扫描指定起始行之后的匹配（1-indexed）")
+    parser.add_argument("-m", "--max-matches", type=int, default=5, help="每章最大展示片段数（默认5条）")
     parser.add_argument("--dialogue", action="store_true", help="仅在角色对白「……」与内心独白『……』中检索")
     parser.add_argument("-n", "--limit", type=int, default=5, help="返回匹配章节数量上限（默认5条）")
     parser.add_argument("-C", "--context", type=int, default=2, help="命中行前后展示的上下文行数（默认2行）")
@@ -597,19 +634,30 @@ def main():
         parser.print_help()
         return
 
-    scope = "all" if args.all else ("gaiden" if (args.gaiden or args.series) else "web")
+    series_val = args.series
+    start_line_val = args.start_line
+    if series_val and series_val.strip().isdigit():
+        val_int = int(series_val.strip())
+        if val_int > 24:
+            # 误把 -s 当作起始行号传入（如 -s 1150），智能转为 start_line 处理
+            start_line_val = val_int
+            series_val = None
+
+    scope = "all" if args.all else ("gaiden" if (args.gaiden or series_val) else "web")
 
     results, fallback_info = search_novel(
         keyword=kw,
         scope=scope,
         volume=args.volume,
-        series=args.series,
+        series=series_val,
         chapter=args.chapter,
         dialogue_only=args.dialogue,
         limit=args.limit,
         context_lines=args.context,
         window_size=args.window,
-        exact_mode=args.exact
+        exact_mode=args.exact,
+        start_line=start_line_val,
+        max_matches=args.max_matches
     )
 
     if args.json:
