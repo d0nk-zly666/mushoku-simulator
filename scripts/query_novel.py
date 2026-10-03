@@ -42,10 +42,14 @@ MULTI_STOPWORDS = [
     '非常', '十分', '真的', '更加', '觉得', '感觉', '没有', '没法', '不能', '不可',
     '为了', '关于', '对于', '由于', '哪怕', '哪怕是', '就是', '还是', '之后', '之前'
 ]
-STOP_PATTERN = re.compile('|'.join(re.escape(w) for w in sorted(MULTI_STOPWORDS, key=len, reverse=True)))
 
-# 单字停用词（仅在词首/词尾剥离，防止误伤复合名词）
-SINGLE_STOPWORDS = set('的一在了是个和与及同跟或把我你他她它们这那位只件条很太极更最越想看看听有没不之其等以向对到去由从让被')
+# 纯语法助词/介词（仅用于首尾安全剥离，绝不收录实词词根如'最'、'更'、'真'、'看'、'听'等）
+PURE_PARTICLES = set('的了着过得地在于从向对被把将给由让和与跟同及且或啊呀呢吧吗么')
+
+# 助词/连词正则切分器（用于将长句自然打散为词块，例如 "最后的报酬" -> "最后" + "报酬"）
+PARTICLE_SPLIT_REGEX = re.compile(
+    r'[\s,，+＋、/|·\-—]+|' + '|'.join(re.escape(w) for w in sorted(MULTI_STOPWORDS + list('的之与和及在于从向对被把将给由让了着过得地啊呀呢吧吗么'), key=len, reverse=True))
+)
 
 # 无职转生高频专有名词词典（加速精准切分）
 KNOWN_ENTITIES = [
@@ -99,7 +103,7 @@ def read_chapter_content(manifest_entry: Dict[str, Any]) -> str:
         return fp.read()
 
 def strip_stopwords(s: str) -> str:
-    """剥离首尾停用词"""
+    """仅剥离真正的语法虚词，不伤害包含'最/更/极/想'等实词词根的词汇"""
     s = s.strip()
     changed = True
     while changed and len(s) > 1:
@@ -111,10 +115,10 @@ def strip_stopwords(s: str) -> str:
             if s.endswith(mw):
                 s = s[:-len(mw)].strip()
                 changed = True
-        if s and s[0] in SINGLE_STOPWORDS:
+        if s and s[0] in PURE_PARTICLES:
             s = s[1:].strip()
             changed = True
-        if len(s) > 1 and s[-1] in SINGLE_STOPWORDS:
+        if len(s) > 1 and s[-1] in PURE_PARTICLES:
             s = s[:-1].strip()
             changed = True
     return s
@@ -139,7 +143,7 @@ def parse_query(raw_query: str) -> Tuple[List[str], bool]:
     return tokens, is_multi
 
 def smart_decompose(query: str) -> Tuple[str, List[str]]:
-    """长句智能降级拆解：返回 (词干优化短语, 核心实体列表)"""
+    """长句智能降级拆解：返回 (词干优化短语, 核心实体/语义块列表)"""
     cleaned = strip_stopwords(query)
     found_entities = []
     temp = cleaned
@@ -148,11 +152,19 @@ def smart_decompose(query: str) -> Tuple[str, List[str]]:
             found_entities.append(entity)
             temp = temp.replace(entity, ' ')
             
-    parts = STOP_PATTERN.split(temp)
+    parts = PARTICLE_SPLIT_REGEX.split(temp)
     for p in parts:
         p = strip_stopwords(p)
-        if len(p) >= 2 and p not in found_entities:
-            found_entities.append(p)
+        if p and p not in found_entities:
+            if len(p) >= 2 or (len(p) == 1 and p in '剑魔枪铠神'):
+                found_entities.append(p)
+                
+    # 若专名切分不足2个词，尝试直接按语法助词切分原始 query
+    if len(found_entities) < 2:
+        parts_direct = PARTICLE_SPLIT_REGEX.split(cleaned)
+        direct_tokens = [p.strip() for p in parts_direct if len(p.strip()) >= 2 and p.strip() not in MULTI_STOPWORDS and p.strip() not in PURE_PARTICLES]
+        if len(direct_tokens) >= 2:
+            return cleaned, direct_tokens
             
     return cleaned, found_entities
 
@@ -412,6 +424,31 @@ def search_novel(
                 }
 
     final_results = results[:limit] if limit > 0 else results
+
+    # 6. 若启用了范围过滤（-c / -v / -s）且当前过滤下 0 命中，快速检测全局是否有该词，生成友好提示
+    if not final_results and keyword and (chapter is not None or volume is not None or series is not None):
+        unfiltered_res, _ = search_novel(
+            keyword=keyword,
+            scope=scope,
+            limit=3,
+            dialogue_only=dialogue_only,
+            exact_mode=exact_mode
+        )
+        if unfiltered_res:
+            active_filters = []
+            if chapter is not None:
+                active_filters.append(f"-c {chapter}")
+            if volume is not None:
+                active_filters.append(f"-v {volume}")
+            if series is not None:
+                active_filters.append(f"-s {series}")
+            fallback_info = {
+                "mode": "filter_restricted",
+                "filters": " ".join(active_filters),
+                "examples": [f"第 {r['chapter_id']} 话《{r['title']}》" for r in unfiltered_res],
+                "count": len(unfiltered_res)
+            }
+
     return final_results, fallback_info
 
 def print_text_results(results: List[Dict[str, Any]], keyword: str, fallback_info: Optional[Dict[str, Any]] = None):
@@ -426,6 +463,10 @@ def print_text_results(results: List[Dict[str, Any]], keyword: str, fallback_inf
         elif fallback_info.get("mode") == "subterm_cooccurrence":
             terms_str = " + ".join([f"【{t}】" for t in fallback_info['terms']])
             print(f"💡 [智能分词降级检索]: 原长短语「{fallback_info['original']}」无直接字面命中，已自动识别为核心词组 {terms_str} 展开段落共现检索：")
+        elif fallback_info.get("mode") == "filter_restricted":
+            ex_str = "、".join(fallback_info['examples'])
+            print(f"💡 [范围过滤提示]: 当前指定的范围过滤 [{fallback_info['filters']}] 下未包含关键词「{keyword}」。")
+            print(f"   但在全局范围内，该词在其他章节（如：{ex_str} 等）中存在！建议去除 {fallback_info['filters']} 参数进行全局检索。")
         print("-" * 80)
 
     if not results:
