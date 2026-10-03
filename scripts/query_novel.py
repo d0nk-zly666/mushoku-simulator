@@ -528,8 +528,9 @@ def print_text_results(results: List[Dict[str, Any]], keyword: str, fallback_inf
         print("\n" + "=" * 80)
         print("💡 [Agent 原著研读指引 - 两步法协议]")
         print("已成功定位章节！CLI 检索已完成。严禁继续在命令行反复试探猜参数！")
-        print(f"下一步必须立刻调用 view_file 工具通读原著段落（界面将显示为 Analyzed）：")
-        print(f"  view_file(AbsolutePath=r\"{abs_p}\", StartLine={s_line}, EndLine={e_line})")
+        print(f"下一步必须立刻调用 view_file 工具阅读原文（界面将显示为 Analyzed）：")
+        print(f"  推荐起步调用: view_file(AbsolutePath=r\"{abs_p}\", StartLine={s_line}, EndLine={e_line})")
+        print("  【阅读尺度】行号区间仅供起步参考！请按情节自然起止灵活调整（可短读数十行，亦可连续阅读多段直至完整高潮闭环）。")
         print("通读原著真实对白、受挫与动作细节后再开始叙事！")
         print("=" * 80 + "\n")
     else:
