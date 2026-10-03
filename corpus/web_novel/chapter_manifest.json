@@ -1,0 +1,2549 @@
+[
+  {
+    "id": 1,
+    "title": "序章",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/001_序章.md",
+    "word_count": 3707,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 2,
+    "title": "第一话 难道是：异世界",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/002_第一话_难道是_异世界.md",
+    "word_count": 3047,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 3,
+    "title": "第二话 感到退缩的女仆",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/003_第二话_感到退缩的女仆.md",
+    "word_count": 3598,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 4,
+    "title": "第三话 魔法课本",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/004_第三话_魔法课本.md",
+    "word_count": 5982,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 5,
+    "title": "第四话 师傅",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/005_第四话_师傅.md",
+    "word_count": 11740,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 6,
+    "title": "第五话 剑术与魔法",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/006_第五话_剑术与魔法.md",
+    "word_count": 4218,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 7,
+    "title": "第六话 尊敬的理由",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/007_第六话_尊敬的理由.md",
+    "word_count": 6337,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 8,
+    "title": "第七话 朋友",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/008_第七话_朋友.md",
+    "word_count": 11112,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 9,
+    "title": "第八话 迟钝",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/009_第八话_迟钝.md",
+    "word_count": 9686,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 10,
+    "title": "第九话 紧急家族会议",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/010_第九话_紧急家族会议.md",
+    "word_count": 7757,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 11,
+    "title": "第十话 瓶颈",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/011_第十话_瓶颈.md",
+    "word_count": 10494,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 12,
+    "title": "第十一话 离别",
+    "volume": "第一章 幼年期",
+    "volume_num": 1,
+    "relative_path": "第01章_幼年期/012_第十一话_离别.md",
+    "word_count": 12147,
+    "light_novel_vol": "文库第 1 卷"
+  },
+  {
+    "id": 13,
+    "title": "第十二话 大小姐的暴力",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/013_第十二话_大小姐的暴力.md",
+    "word_count": 6457,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 14,
+    "title": "第十三话 自作自演",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/014_第十三话_自作自演.md",
+    "word_count": 8672,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 15,
+    "title": "间话 日后谈及伯雷亚斯流礼仪",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/015_间话_日后谈及伯雷亚斯流礼仪.md",
+    "word_count": 3268,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 16,
+    "title": "第十四话 凶暴依旧",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/016_第十四话_凶暴依旧.md",
+    "word_count": 7134,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 17,
+    "title": "第十五话 职员会议和星期日",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/017_第十五话_职员会议和星期日.md",
+    "word_count": 7629,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 18,
+    "title": "第十六话 大小姐十岁",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/018_第十六话_大小姐十岁.md",
+    "word_count": 8711,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 19,
+    "title": "第十七话 言语学习",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/019_第十七话_言语学习.md",
+    "word_count": 10441,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 20,
+    "title": "第十八话 誓约",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/020_第十八话_誓约.md",
+    "word_count": 12223,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 21,
+    "title": "第十九话 分歧点",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/021_第十九话_分歧点.md",
+    "word_count": 7575,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 22,
+    "title": "间话 菲托亚领地消失半年后",
+    "volume": "第二章 少年期 家庭教师篇",
+    "volume_num": 2,
+    "relative_path": "第02章_少年期_家庭教师篇/022_间话_菲托亚领地消失半年后.md",
+    "word_count": 2902,
+    "light_novel_vol": "文库第 2 卷"
+  },
+  {
+    "id": 23,
+    "title": "第二十话 自称神的欺诈师",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/023_第二十话_自称神的欺诈师.md",
+    "word_count": 3895,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 24,
+    "title": "第二十一话 斯佩路德族",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/024_第二十一话_斯佩路德族.md",
+    "word_count": 6210,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 25,
+    "title": "第二十二话 师傅的秘密",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/025_第二十二话_师傅的秘密.md",
+    "word_count": 5680,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 26,
+    "title": "第二十三话 信任的理由",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/026_第二十三话_信任的理由.md",
+    "word_count": 6549,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 27,
+    "title": "第二十四话 抵达最近城镇的三天内",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/027_第二十四话_抵达最近城镇的三天内.md",
+    "word_count": 8532,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 28,
+    "title": "第二十五话 侵入和变装",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/028_第二十五话_侵入和变装.md",
+    "word_count": 6756,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 29,
+    "title": "第二十六话 冒险者公会",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/029_第二十六话_冒险者公会.md",
+    "word_count": 8176,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 30,
+    "title": "第二十七话 冒险者的住宿",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/030_第二十七话_冒险者的住宿.md",
+    "word_count": 9165,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 31,
+    "title": "第二十八话 人的性命与初次工作",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/031_第二十八话_人的性命与初次工作.md",
+    "word_count": 8254,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 32,
+    "title": "第二十九话 初次工作结束",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/032_第二十九话_初次工作结束.md",
+    "word_count": 7825,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 33,
+    "title": "第三十话 顺利的开端",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/033_第三十话_顺利的开端.md",
+    "word_count": 7828,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 34,
+    "title": "第三十一话 孩子和战士",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/034_第三十一话_孩子和战士.md",
+    "word_count": 10703,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 35,
+    "title": "第三十二话 失败与混乱与决意",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/035_第三十二话_失败与混乱与决意.md",
+    "word_count": 10384,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 36,
+    "title": "第三十三话 旅途的开始",
+    "volume": "第三章 少年期 冒险者入门篇",
+    "volume_num": 3,
+    "relative_path": "第03章_少年期_冒险者入门篇/036_第三十三话_旅途的开始.md",
+    "word_count": 9541,
+    "light_novel_vol": "文库第 3 卷"
+  },
+  {
+    "id": 37,
+    "title": "第三十四话 温恩港",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/037_第三十四话_温恩港.md",
+    "word_count": 7650,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 38,
+    "title": "第三十五话 失之交臂·前篇",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/038_第三十五话_失之交臂_前篇.md",
+    "word_count": 6721,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 39,
+    "title": "第三十六话 失之交臂·后篇",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/039_第三十六话_失之交臂_后篇.md",
+    "word_count": 7754,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 40,
+    "title": "间话 失之交臂 附加篇",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/040_间话_失之交臂_附加篇.md",
+    "word_count": 8360,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 41,
+    "title": "第三十七话 船里的贤者",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/041_第三十七话_船里的贤者.md",
+    "word_count": 6193,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 42,
+    "title": "第三十八话 仓库里的恶魔",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/042_第三十八话_仓库里的恶魔.md",
+    "word_count": 5619,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 43,
+    "title": "第三十九话 兽族的孩子们",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/043_第三十九话_兽族的孩子们.md",
+    "word_count": 8192,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 44,
+    "title": "第四十话 免费公寓",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/044_第四十话_免费公寓.md",
+    "word_count": 6460,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 45,
+    "title": "第四十一话 德路迪亚村的好日子 前篇",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/045_第四十一话_德路迪亚村的好日子_前篇.md",
+    "word_count": 7997,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 46,
+    "title": "第四十二话 德路迪亚村的好日子 后篇",
+    "volume": "第四章 少年期 航海篇",
+    "volume_num": 4,
+    "relative_path": "第04章_少年期_航海篇/046_第四十二话_德路迪亚村的好日子_后篇.md",
+    "word_count": 28083,
+    "light_novel_vol": "文库第 4 卷"
+  },
+  {
+    "id": 47,
+    "title": "第四十四话 米里斯神圣国",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/047_第四十四话_米里斯神圣国.md",
+    "word_count": 28101,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 48,
+    "title": "第四十五话 一年半的保罗",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/048_第四十五话_一年半的保罗.md",
+    "word_count": 7007,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 49,
+    "title": "第四十六话 亲子吵架",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/049_第四十六话_亲子吵架.md",
+    "word_count": 8109,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 50,
+    "title": "第四十七话 与保罗的再会",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/050_第四十七话_与保罗的再会.md",
+    "word_count": 12562,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 51,
+    "title": "第四十八话 方针的再确认",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/051_第四十八话_方针的再确认.md",
+    "word_count": 8998,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 52,
+    "title": "第四十九话 米里希昂的一周间",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/052_第四十九话_米里希昂的一周间.md",
+    "word_count": 9299,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 53,
+    "title": "间章 艾莉丝的哥布林讨伐",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/053_间章_艾莉丝的哥布林讨伐.md",
+    "word_count": 10300,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 54,
+    "title": "第五十话 往中央大陆",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/054_第五十话_往中央大陆.md",
+    "word_count": 10056,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 55,
+    "title": "间话 洛琪希的归乡",
+    "volume": "第五章 少年时期 重逢篇",
+    "volume_num": 5,
+    "relative_path": "第05章_少年时期_重逢篇/055_间话_洛琪希的归乡.md",
+    "word_count": 16091,
+    "light_novel_vol": "文库第 5 卷"
+  },
+  {
+    "id": 56,
+    "title": "第五十一话 路线选择",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/056_第五十一话_路线选择.md",
+    "word_count": 6644,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 57,
+    "title": "第五十二话 大米",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/057_第五十二话_大米.md",
+    "word_count": 6220,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 58,
+    "title": "第五十三话 西隆王国",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/058_第五十三话_西隆王国.md",
+    "word_count": 7973,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 59,
+    "title": "第五十四话 神不在",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/059_第五十四话_神不在.md",
+    "word_count": 13118,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 60,
+    "title": "第五十五话 第三王子",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/060_第五十五话_第三王子.md",
+    "word_count": 8979,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 61,
+    "title": "第五十六话 快速解决",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/061_第五十六话_快速解决.md",
+    "word_count": 6984,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 62,
+    "title": "第五十七话 妹女仆的诞生之日",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/062_第五十七话_妹女仆的诞生之日.md",
+    "word_count": 4837,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 63,
+    "title": "第五十八话 独当一面",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/063_第五十八话_独当一面.md",
+    "word_count": 5936,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 64,
+    "title": "第五十九话 转折点2",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/064_第五十九话_转折点2.md",
+    "word_count": 7457,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 65,
+    "title": "第六十话 胸中裂开之口",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/065_第六十话_胸中裂开之口.md",
+    "word_count": 4452,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 66,
+    "title": "第六十一话 旅途的结束",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/066_第六十一话_旅途的结束.md",
+    "word_count": 7045,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 67,
+    "title": "第六十二话 灾害的现实",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/067_第六十二话_灾害的现实.md",
+    "word_count": 8728,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 68,
+    "title": "第六十三话 大小姐的决心",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/068_第六十三话_大小姐的决心.md",
+    "word_count": 12355,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 69,
+    "title": "间话 相遇的两人",
+    "volume": "第六章 少年期 归乡篇",
+    "volume_num": 6,
+    "relative_path": "第06章_少年期_归乡篇/069_间话_相遇的两人.md",
+    "word_count": 9299,
+    "light_novel_vol": "文库第 6 卷"
+  },
+  {
+    "id": 70,
+    "title": "第六十四话 泥沼之冒险者",
+    "volume": "第七章 青少年期 入学篇",
+    "volume_num": 7,
+    "relative_path": "第07章_青少年期_入学篇/070_第六十四话_泥沼之冒险者.md",
+    "word_count": 7092,
+    "light_novel_vol": "文库第 8 卷（前半）"
+  },
+  {
+    "id": 71,
+    "title": "第六十五话 推荐信",
+    "volume": "第七章 青少年期 入学篇",
+    "volume_num": 7,
+    "relative_path": "第07章_青少年期_入学篇/071_第六十五话_推荐信.md",
+    "word_count": 10046,
+    "light_novel_vol": "文库第 8 卷（前半）"
+  },
+  {
+    "id": 72,
+    "title": "第六十六话 入学考试",
+    "volume": "第七章 青少年期 入学篇",
+    "volume_num": 7,
+    "relative_path": "第07章_青少年期_入学篇/072_第六十六话_入学考试.md",
+    "word_count": 9242,
+    "light_novel_vol": "文库第 8 卷（前半）"
+  },
+  {
+    "id": 73,
+    "title": "第六十七话 入学初日 前篇",
+    "volume": "第七章 青少年期 入学篇",
+    "volume_num": 7,
+    "relative_path": "第07章_青少年期_入学篇/073_第六十七话_入学初日_前篇.md",
+    "word_count": 7990,
+    "light_novel_vol": "文库第 8 卷（前半）"
+  },
+  {
+    "id": 74,
+    "title": "第六十八话 入学初日 后篇",
+    "volume": "第七章 青少年期 入学篇",
+    "volume_num": 7,
+    "relative_path": "第07章_青少年期_入学篇/074_第六十八话_入学初日_后篇.md",
+    "word_count": 11501,
+    "light_novel_vol": "文库第 8 卷（前半）"
+  },
+  {
+    "id": 75,
+    "title": "第六十九话 菲兹前辈",
+    "volume": "第七章 青少年期 入学篇",
+    "volume_num": 7,
+    "relative_path": "第07章_青少年期_入学篇/075_第六十九话_菲兹前辈.md",
+    "word_count": 6506,
+    "light_novel_vol": "文库第 8 卷（前半）"
+  },
+  {
+    "id": 76,
+    "title": "第七十话 无法企及之力 前编",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/076_第七十话_无法企及之力_前编.md",
+    "word_count": 4880,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 77,
+    "title": "第七十一话 无法企及之力 后篇",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/077_第七十一话_无法企及之力_后篇.md",
+    "word_count": 9530,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 78,
+    "title": "第七十二话 兽族大小姐绑架监禁事件 前篇",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/078_第七十二话_兽族大小姐绑架监禁事件_前篇.md",
+    "word_count": 8802,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 79,
+    "title": "第七十三话 兽族大小姐绑架监禁事件 后篇",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/079_第七十三话_兽族大小姐绑架监禁事件_后篇.md",
+    "word_count": 9040,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 80,
+    "title": "第七十四话 天才少年的秘密 前篇",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/080_第七十四话_天才少年的秘密_前篇.md",
+    "word_count": 7784,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 81,
+    "title": "第七十五话 天才少年的秘密 后篇",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/081_第七十五话_天才少年的秘密_后篇.md",
+    "word_count": 7946,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 82,
+    "title": "第七十六话 绝壁之婚约者 前编",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/082_第七十六话_绝壁之婚约者_前编.md",
+    "word_count": 7437,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 83,
+    "title": "第七十七话 绝壁的婚约者 后篇",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/083_第七十七话_绝壁的婚约者_后篇.md",
+    "word_count": 8871,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 84,
+    "title": "第七十八话 白色假面 前篇",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/084_第七十八话_白色假面_前篇.md",
+    "word_count": 7623,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 85,
+    "title": "第七十九话 白色假面 后篇",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/085_第七十九话_白色假面_后篇.md",
+    "word_count": 7287,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 86,
+    "title": "第八十话 魔法大学的一天",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/086_第八十话_魔法大学的一天.md",
+    "word_count": 8070,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 87,
+    "title": "第八十话间话 燃烧吧狂犬",
+    "volume": "第八章 青少年期 特别生掌握篇",
+    "volume_num": 8,
+    "relative_path": "第08章_青少年期_特别生掌握篇/087_第八十话间话_燃烧吧狂犬.md",
+    "word_count": 7340,
+    "light_novel_vol": "文库第 8 卷（后半）"
+  },
+  {
+    "id": 88,
+    "title": "第八十一话 希露菲的过去",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/088_第八十一话_希露菲的过去.md",
+    "word_count": 4016,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 89,
+    "title": "第八十二话 守护术士菲兹登场",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/089_第八十二话_守护术士菲兹登场.md",
+    "word_count": 7232,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 90,
+    "title": "第八十三话 公主与骑士与术师",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/090_第八十三话_公主与骑士与术师.md",
+    "word_count": 8333,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 91,
+    "title": "第八十四话 入学第一天 附加篇",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/091_第八十四话_入学第一天_附加篇.md",
+    "word_count": 11236,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 92,
+    "title": "第八十五话「敏锐的迟钝」",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/092_第八十五话「敏锐的迟钝」.md",
+    "word_count": 6828,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 93,
+    "title": "第八十六话 过度担心",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/093_第八十六话_过度担心.md",
+    "word_count": 5461,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 94,
+    "title": "第八十七话 被守护的秘密",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/094_第八十七话_被守护的秘密.md",
+    "word_count": 9179,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 95,
+    "title": "第八十八话 森林之雨 前篇",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/095_第八十八话_森林之雨_前篇.md",
+    "word_count": 9047,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 96,
+    "title": "第八十九话 森林之雨 后篇",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/096_第八十九话_森林之雨_后篇.md",
+    "word_count": 7293,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 97,
+    "title": "第九十话 最后一把劲",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/097_第九十话_最后一把劲.md",
+    "word_count": 7828,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 98,
+    "title": "第九十一话 靠山",
+    "volume": "第九章 青少年期 希露菲叶特篇",
+    "volume_num": 9,
+    "relative_path": "第09章_青少年期_希露菲叶特篇/098_第九十一话_靠山.md",
+    "word_count": 6374,
+    "light_novel_vol": "文库第 9 卷"
+  },
+  {
+    "id": 99,
+    "title": "第九十二话 婚前准备 前篇",
+    "volume": "第十章 青少年时期 新婚篇",
+    "volume_num": 10,
+    "relative_path": "第10章_青少年时期_新婚篇/099_第九十二话_婚前准备_前篇.md",
+    "word_count": 7946,
+    "light_novel_vol": "文库第 10 卷"
+  },
+  {
+    "id": 100,
+    "title": "第九十三话 婚前准备 后篇",
+    "volume": "第十章 青少年时期 新婚篇",
+    "volume_num": 10,
+    "relative_path": "第10章_青少年时期_新婚篇/100_第九十三话_婚前准备_后篇.md",
+    "word_count": 8179,
+    "light_novel_vol": "文库第 10 卷"
+  },
+  {
+    "id": 101,
+    "title": "第九十四话 剧变",
+    "volume": "第十章 青少年时期 新婚篇",
+    "volume_num": 10,
+    "relative_path": "第10章_青少年时期_新婚篇/101_第九十四话_剧变.md",
+    "word_count": 7552,
+    "light_novel_vol": "文库第 10 卷"
+  },
+  {
+    "id": 102,
+    "title": "第九十五话 披露宴 准备",
+    "volume": "第十章 青少年时期 新婚篇",
+    "volume_num": 10,
+    "relative_path": "第10章_青少年时期_新婚篇/102_第九十五话_披露宴_准备.md",
+    "word_count": 7547,
+    "light_novel_vol": "文库第 10 卷"
+  },
+  {
+    "id": 103,
+    "title": "第九十六话 披露宴 召开",
+    "volume": "第十章 青少年时期 新婚篇",
+    "volume_num": 10,
+    "relative_path": "第10章_青少年时期_新婚篇/103_第九十六话_披露宴_召开.md",
+    "word_count": 7868,
+    "light_novel_vol": "文库第 10 卷"
+  },
+  {
+    "id": 104,
+    "title": "第九十七话 披露宴 终了",
+    "volume": "第十章 青少年时期 新婚篇",
+    "volume_num": 10,
+    "relative_path": "第10章_青少年时期_新婚篇/104_第九十七话_披露宴_终了.md",
+    "word_count": 7260,
+    "light_novel_vol": "文库第 10 卷"
+  },
+  {
+    "id": 105,
+    "title": "第九十八话 家里的某一天",
+    "volume": "第十章 青少年时期 新婚篇",
+    "volume_num": 10,
+    "relative_path": "第10章_青少年时期_新婚篇/105_第九十八话_家里的某一天.md",
+    "word_count": 5619,
+    "light_novel_vol": "文库第 10 卷"
+  },
+  {
+    "id": 106,
+    "title": "第九十九话 书信",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/106_第九十九话_书信.md",
+    "word_count": 6327,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 107,
+    "title": "第一百话 决堤",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/107_第一百话_决堤.md",
+    "word_count": 5802,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 108,
+    "title": "第一百零一话 超凡的智慧",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/108_第一百零一话_超凡的智慧.md",
+    "word_count": 8908,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 109,
+    "title": "第一百零二话 怀旧和懊悔",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/109_第一百零二话_怀旧和懊悔.md",
+    "word_count": 7666,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 110,
+    "title": "第一百零三话 姐妹的待遇",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/110_第一百零三话_姐妹的待遇.md",
+    "word_count": 8436,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 111,
+    "title": "第一百零四话 女仆和住宿生",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/111_第一百零四话_女仆和住宿生.md",
+    "word_count": 7523,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 112,
+    "title": "间话 人偶研究和主从关系",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/112_间话_人偶研究和主从关系.md",
+    "word_count": 4136,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 113,
+    "title": "第一百零五话 番长和他的伙伴们",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/113_第一百零五话_番长和他的伙伴们.md",
+    "word_count": 7811,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 114,
+    "title": "第一百零六话 大哥的心情",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/114_第一百零六话_大哥的心情.md",
+    "word_count": 6996,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 115,
+    "title": "第一百零七话 诺伦·格雷拉特",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/115_第一百零七话_诺伦_格雷拉特.md",
+    "word_count": 6421,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 116,
+    "title": "第一百零八话 有妹妹相伴的生活",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/116_第一百零八话_有妹妹相伴的生活.md",
+    "word_count": 8330,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 117,
+    "title": "第一百零九话 转折点3",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/117_第一百零九话_转折点3.md",
+    "word_count": 8380,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 118,
+    "title": "间话 磨牙砾爪",
+    "volume": "第十一章 青少年期 妹篇",
+    "volume_num": 11,
+    "relative_path": "第11章_青少年期_妹篇/118_间话_磨牙砾爪.md",
+    "word_count": 5336,
+    "light_novel_vol": "文库第 11 卷"
+  },
+  {
+    "id": 119,
+    "title": "第一百一十话 临别的问候",
+    "volume": "第十二章 青少年期 贝卡利特大陆篇",
+    "volume_num": 12,
+    "relative_path": "第12章_青少年期_贝卡利特大陆篇/119_第一百一十话_临别的问候.md",
+    "word_count": 11792,
+    "light_novel_vol": "文库第 12 卷（前半）"
+  },
+  {
+    "id": 120,
+    "title": "第一百一十一话 前往贝卡利特大陆",
+    "volume": "第十二章 青少年期 贝卡利特大陆篇",
+    "volume_num": 12,
+    "relative_path": "第12章_青少年期_贝卡利特大陆篇/120_第一百一十一话_前往贝卡利特大陆.md",
+    "word_count": 6753,
+    "light_novel_vol": "文库第 12 卷（前半）"
+  },
+  {
+    "id": 121,
+    "title": "第一百一十二话 遭遇天敌",
+    "volume": "第十二章 青少年期 贝卡利特大陆篇",
+    "volume_num": 12,
+    "relative_path": "第12章_青少年期_贝卡利特大陆篇/121_第一百一十二话_遭遇天敌.md",
+    "word_count": 5537,
+    "light_novel_vol": "文库第 12 卷（前半）"
+  },
+  {
+    "id": 122,
+    "title": "第一百一十三话 沙漠的生态",
+    "volume": "第十二章 青少年期 贝卡利特大陆篇",
+    "volume_num": 12,
+    "relative_path": "第12章_青少年期_贝卡利特大陆篇/122_第一百一十三话_沙漠的生态.md",
+    "word_count": 7747,
+    "light_novel_vol": "文库第 12 卷（前半）"
+  },
+  {
+    "id": 123,
+    "title": "第一百一十四话 沙漠之旅",
+    "volume": "第十二章 青少年期 贝卡利特大陆篇",
+    "volume_num": 12,
+    "relative_path": "第12章_青少年期_贝卡利特大陆篇/123_第一百一十四话_沙漠之旅.md",
+    "word_count": 6232,
+    "light_novel_vol": "文库第 12 卷（前半）"
+  },
+  {
+    "id": 124,
+    "title": "第一百一十五话 街市",
+    "volume": "第十二章 青少年期 贝卡利特大陆篇",
+    "volume_num": 12,
+    "relative_path": "第12章_青少年期_贝卡利特大陆篇/124_第一百一十五话_街市.md",
+    "word_count": 8465,
+    "light_novel_vol": "文库第 12 卷（前半）"
+  },
+  {
+    "id": 125,
+    "title": "第一百一十六话 沙漠的战士们",
+    "volume": "第十二章 青少年期 贝卡利特大陆篇",
+    "volume_num": 12,
+    "relative_path": "第12章_青少年期_贝卡利特大陆篇/125_第一百一十六话_沙漠的战士们.md",
+    "word_count": 10762,
+    "light_novel_vol": "文库第 12 卷（前半）"
+  },
+  {
+    "id": 126,
+    "title": "第一百一十七话 抵达",
+    "volume": "第十二章 青少年期 贝卡利特大陆篇",
+    "volume_num": 12,
+    "relative_path": "第12章_青少年期_贝卡利特大陆篇/126_第一百一十七话_抵达.md",
+    "word_count": 11657,
+    "light_novel_vol": "文库第 12 卷（前半）"
+  },
+  {
+    "id": 127,
+    "title": "第一百一十八话 状况确认",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/127_第一百一十八话_状况确认.md",
+    "word_count": 6271,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 128,
+    "title": "第一百一十九话 进入迷宫",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/128_第一百一十九话_进入迷宫.md",
+    "word_count": 6675,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 129,
+    "title": "第一百二十话 她那时的心情",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/129_第一百二十话_她那时的心情.md",
+    "word_count": 6159,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 130,
+    "title": "第一百二十一话 不屈的魔法使",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/130_第一百二十一话_不屈的魔法使.md",
+    "word_count": 7075,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 131,
+    "title": "第一百二十二话 一帆风顺",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/131_第一百二十二话_一帆风顺.md",
+    "word_count": 6340,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 132,
+    "title": "第一百二十三话 第六层的魔法阵",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/132_第一百二十三话_第六层的魔法阵.md",
+    "word_count": 7318,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 133,
+    "title": "第一百二十四话 转移迷宫的守护者",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/133_第一百二十四话_转移迷宫的守护者.md",
+    "word_count": 7308,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 134,
+    "title": "第一百二十五话 死斗",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/134_第一百二十五话_死斗.md",
+    "word_count": 5118,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 135,
+    "title": "第一百二十六话 双亲",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/135_第一百二十六话_双亲.md",
+    "word_count": 5390,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 136,
+    "title": "第一百二十七话 向着前方",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/136_第一百二十七话_向着前方.md",
+    "word_count": 7763,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 137,
+    "title": "第一百二十八话 回去吧",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/137_第一百二十八话_回去吧.md",
+    "word_count": 7770,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 138,
+    "title": "第一百二十九话 归还",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/138_第一百二十九话_归还.md",
+    "word_count": 6193,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 139,
+    "title": "第一百三十话 报告",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/139_第一百三十话_报告.md",
+    "word_count": 7522,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 140,
+    "title": "第一百三十一话 修罗场",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/140_第一百三十一话_修罗场.md",
+    "word_count": 6818,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 141,
+    "title": "第一百三十二话 墓碑之前",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/141_第一百三十二话_墓碑之前.md",
+    "word_count": 4874,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 142,
+    "title": "间话 狂犬之剑，是重？是锐？",
+    "volume": "第十三章 青少年期 迷宫篇",
+    "volume_num": 13,
+    "relative_path": "第13章_青少年期_迷宫篇/142_间话_狂犬之剑，是重？是锐？.md",
+    "word_count": 8617,
+    "light_novel_vol": "文库第 12 卷（后半）"
+  },
+  {
+    "id": 143,
+    "title": "第一百三十三话 洛琪希执教",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/143_第一百三十三话_洛琪希执教.md",
+    "word_count": 11444,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 144,
+    "title": "第一百三十四话 三年生",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/144_第一百三十四话_三年生.md",
+    "word_count": 9357,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 145,
+    "title": "第一百三十五话 Training with 诺伦",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/145_第一百三十五话_Training_with_诺伦.md",
+    "word_count": 8077,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 146,
+    "title": "第一百三十六话 人家养的",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/146_第一百三十六话_人家养的.md",
+    "word_count": 7112,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 147,
+    "title": "第一百三十七话 有威严的父亲",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/147_第一百三十七话_有威严的父亲.md",
+    "word_count": 7563,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 148,
+    "title": "第一百三十八话 水王级",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/148_第一百三十八话_水王级.md",
+    "word_count": 7360,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 149,
+    "title": "第一百三十九话 结婚仪式",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/149_第一百三十九话_结婚仪式.md",
+    "word_count": 6841,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 150,
+    "title": "第一百四十话 左拥右抱",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/150_第一百四十话_左拥右抱.md",
+    "word_count": 6949,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 151,
+    "title": "第一百四十一话 生日宴会",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/151_第一百四十一话_生日宴会.md",
+    "word_count": 7100,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 152,
+    "title": "第一百四十二话 毕业典礼",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/152_第一百四十二话_毕业典礼.md",
+    "word_count": 8827,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 153,
+    "title": "第一百四十三话 第四阶段",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/153_第一百四十三话_第四阶段.md",
+    "word_count": 5857,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 154,
+    "title": "间话 新剑王诞生",
+    "volume": "第十四章 青年期 日常篇",
+    "volume_num": 14,
+    "relative_path": "第14章_青年期_日常篇/154_间话_新剑王诞生.md",
+    "word_count": 4620,
+    "light_novel_vol": "文库第 13 卷"
+  },
+  {
+    "id": 155,
+    "title": "第一百四十四话 空中城塞",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/155_第一百四十四话_空中城塞.md",
+    "word_count": 10757,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 156,
+    "title": "第一百四十五话 谒见佩尔基乌斯",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/156_第一百四十五话_谒见佩尔基乌斯.md",
+    "word_count": 8517,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 157,
+    "title": "第一百四十六话 过去，诅咒，召唤，嫉妒",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/157_第一百四十六话_过去，诅咒，召唤，嫉妒.md",
+    "word_count": 10915,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 158,
+    "title": "第一百四十七话 恸哭",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/158_第一百四十七话_恸哭.md",
+    "word_count": 8039,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 159,
+    "title": "第一百四十八话 再临魔大陆",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/159_第一百四十八话_再临魔大陆.md",
+    "word_count": 6583,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 160,
+    "title": "第一百四十九话 搜索奇希莉卡",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/160_第一百四十九话_搜索奇希莉卡.md",
+    "word_count": 12315,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 161,
+    "title": "第一百五十话 谒见不死魔王",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/161_第一百五十话_谒见不死魔王.md",
+    "word_count": 9069,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 162,
+    "title": "第一百五十一话 与不死魔王的决斗",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/162_第一百五十一话_与不死魔王的决斗.md",
+    "word_count": 10096,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 163,
+    "title": "第一百五十二话 空中要塞的一天",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/163_第一百五十二话_空中要塞的一天.md",
+    "word_count": 8126,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 164,
+    "title": "第一百五十三话 转折点4",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/164_第一百五十三话_转折点4.md",
+    "word_count": 6636,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 165,
+    "title": "第一百五十四话 起点和终点",
+    "volume": "第十五章 青年期 召唤篇",
+    "volume_num": 15,
+    "relative_path": "第15章_青年期_召唤篇/165_第一百五十四话_起点和终点.md",
+    "word_count": 8591,
+    "light_novel_vol": "文库第 14 卷（前半）"
+  },
+  {
+    "id": 166,
+    "title": "第一百五十五话 日记 前篇",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/166_第一百五十五话_日记_前篇.md",
+    "word_count": 5642,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 167,
+    "title": "第一百五十六话 日记 后篇",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/167_第一百五十六话_日记_后篇.md",
+    "word_count": 7543,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 168,
+    "title": "第一百五十七话 觉悟",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/168_第一百五十七话_觉悟.md",
+    "word_count": 9381,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 169,
+    "title": "第一百五十八话 七星的假说",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/169_第一百五十八话_七星的假说.md",
+    "word_count": 8298,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 170,
+    "title": "第一百五十九话 信、送达",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/170_第一百五十九话_信、送达.md",
+    "word_count": 5447,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 171,
+    "title": "第一百六十话 准备",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/171_第一百六十话_准备.md",
+    "word_count": 9007,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 172,
+    "title": "第一百六十一话 准备完毕",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/172_第一百六十一话_准备完毕.md",
+    "word_count": 9251,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 173,
+    "title": "第一百六十二话 泥沼对龙神",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/173_第一百六十二话_泥沼对龙神.md",
+    "word_count": 7016,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 174,
+    "title": "第一百六十三话 狂剑王对龙神",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/174_第一百六十三话_狂剑王对龙神.md",
+    "word_count": 8654,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 175,
+    "title": "第一百六十四话 艾莉丝·格雷拉特 前篇",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/175_第一百六十四话_艾莉丝_格雷拉特_前篇.md",
+    "word_count": 6492,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 176,
+    "title": "第一百六十五话 艾莉丝·格雷拉特 后篇",
+    "volume": "第十六章 青年期 人神篇",
+    "volume_num": 16,
+    "relative_path": "第16章_青年期_人神篇/176_第一百六十五话_艾莉丝_格雷拉特_后篇.md",
+    "word_count": 7862,
+    "light_novel_vol": "文库第 14 卷（后半）~ 15 卷"
+  },
+  {
+    "id": 177,
+    "title": "第一百六十六话 调用",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/177_第一百六十六话_调用.md",
+    "word_count": 5545,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 178,
+    "title": "第一百六十七话 说明",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/178_第一百六十七话_说明.md",
+    "word_count": 7134,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 179,
+    "title": "第一百六十八话 初任务",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/179_第一百六十八话_初任务.md",
+    "word_count": 10073,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 180,
+    "title": "第一百六十九话 守护魔兽",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/180_第一百六十九话_守护魔兽.md",
+    "word_count": 8159,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 181,
+    "title": "第一百七十话 男子会",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/181_第一百七十话_男子会.md",
+    "word_count": 6970,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 182,
+    "title": "间话 女子会",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/182_间话_女子会.md",
+    "word_count": 5177,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 183,
+    "title": "第一百七十一话 路克",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/183_第一百七十一话_路克.md",
+    "word_count": 8167,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 184,
+    "title": "第一百七十二话 下定决心",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/184_第一百七十二话_下定决心.md",
+    "word_count": 8521,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 185,
+    "title": "第一百七十三话 协力体制",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/185_第一百七十三话_协力体制.md",
+    "word_count": 9884,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 186,
+    "title": "第一百七十四话 甲龙王与第二王女",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/186_第一百七十四话_甲龙王与第二王女.md",
+    "word_count": 7888,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 187,
+    "title": "第一百七十五话 在出发前往阿斯拉王国之前",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/187_第一百七十五话_在出发前往阿斯拉王国之前.md",
+    "word_count": 9195,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 188,
+    "title": "间话 黑狼剑王",
+    "volume": "第十七章 青年期 王国篇",
+    "volume_num": 17,
+    "relative_path": "第17章_青年期_王国篇/188_间话_黑狼剑王.md",
+    "word_count": 5180,
+    "light_novel_vol": "文库第 16 卷"
+  },
+  {
+    "id": 189,
+    "title": "第一百七十六话 朝阿斯拉王国出发",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/189_第一百七十六话_朝阿斯拉王国出发.md",
+    "word_count": 6979,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 190,
+    "title": "第一百七十七话 赤龙的上颚",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/190_第一百七十七话_赤龙的上颚.md",
+    "word_count": 8440,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 191,
+    "title": "第一百七十八话 推想",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/191_第一百七十八话_推想.md",
+    "word_count": 7459,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 192,
+    "title": "第一百七十九话 爱丽儿的选择",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/192_第一百七十九话_爱丽儿的选择.md",
+    "word_count": 7304,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 193,
+    "title": "第一百八十话 朵莉丝堤娜",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/193_第一百八十话_朵莉丝堤娜.md",
+    "word_count": 6436,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 194,
+    "title": "第一百八十一话 途中",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/194_第一百八十一话_途中.md",
+    "word_count": 10624,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 195,
+    "title": "第一百八十二话 王城亚尔斯",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/195_第一百八十二话_王城亚尔斯.md",
+    "word_count": 7087,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 196,
+    "title": "第一百八十三话 暗夜的死斗",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/196_第一百八十三话_暗夜的死斗.md",
+    "word_count": 7644,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 197,
+    "title": "第一百八十四话 爱丽儿的战场",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/197_第一百八十四话_爱丽儿的战场.md",
+    "word_count": 8365,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 198,
+    "title": "第一百八十五话 鲁迪乌斯的战场",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/198_第一百八十五话_鲁迪乌斯的战场.md",
+    "word_count": 10714,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 199,
+    "title": "第一百八十六话 路克的暴走",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/199_第一百八十六话_路克的暴走.md",
+    "word_count": 7619,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 200,
+    "title": "第一百八十七话 奥尔斯帝德的真实与王城的十日间",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/200_第一百八十七话_奥尔斯帝德的真实与王城的十日间.md",
+    "word_count": 8511,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 201,
+    "title": "第一百八十八话 离别的演练与希露菲的变化",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/201_第一百八十八话_离别的演练与希露菲的变化.md",
+    "word_count": 6575,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 202,
+    "title": "第一百八十九话 归还与决意",
+    "volume": "第十八章 青年期 阿斯拉王国篇",
+    "volume_num": 18,
+    "relative_path": "第18章_青年期_阿斯拉王国篇/202_第一百八十九话_归还与决意.md",
+    "word_count": 6205,
+    "light_novel_vol": "文库第 17 卷"
+  },
+  {
+    "id": 203,
+    "title": "第一百九十话 近况",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/203_第一百九十话_近况.md",
+    "word_count": 6990,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 204,
+    "title": "间话 业务的一例",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/204_间话_业务的一例.md",
+    "word_count": 8603,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 205,
+    "title": "第一百九十一话 借来的猫",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/205_第一百九十一话_借来的猫.md",
+    "word_count": 9687,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 206,
+    "title": "第一百九十二话 入学典礼与学生会长",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/206_第一百九十二话_入学典礼与学生会长.md",
+    "word_count": 9547,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 207,
+    "title": "第一百九十三话 研究进展",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/207_第一百九十三话_研究进展.md",
+    "word_count": 8372,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 208,
+    "title": "第一百九十四话 家庭崩坏的征兆",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/208_第一百九十四话_家庭崩坏的征兆.md",
+    "word_count": 8710,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 209,
+    "title": "第一百九十五话 创业",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/209_第一百九十五话_创业.md",
+    "word_count": 8326,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 210,
+    "title": "第一百九十六话 社内投资",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/210_第一百九十六话_社内投资.md",
+    "word_count": 10552,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 211,
+    "title": "第一百九十七话 再访德路迪亚村",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/211_第一百九十七话_再访德路迪亚村.md",
+    "word_count": 10372,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 212,
+    "title": "第一百九十八话 肉干杀人事件",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/212_第一百九十八话_肉干杀人事件.md",
+    "word_count": 6742,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 213,
+    "title": "第一百九十九话 次回战斗",
+    "volume": "第十九章 青年期 部下篇",
+    "volume_num": 19,
+    "relative_path": "第19章_青年期_部下篇/213_第一百九十九话_次回战斗.md",
+    "word_count": 6863,
+    "light_novel_vol": "文库第 18 卷"
+  },
+  {
+    "id": 214,
+    "title": "第二百话 札诺巴的决意",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/214_第二百话_札诺巴的决意.md",
+    "word_count": 8381,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 215,
+    "title": "第二百零一话 第六感",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/215_第二百零一话_第六感.md",
+    "word_count": 10183,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 216,
+    "title": "第二百零二话 再回西隆",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/216_第二百零二话_再回西隆.md",
+    "word_count": 8418,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 217,
+    "title": "第二百零三话 帕库斯王",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/217_第二百零三话_帕库斯王.md",
+    "word_count": 8419,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 218,
+    "title": "第二百零四话 卡隆堡垒",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/218_第二百零四话_卡隆堡垒.md",
+    "word_count": 8870,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 219,
+    "title": "第二百零五话 战争的准备",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/219_第二百零五话_战争的准备.md",
+    "word_count": 6657,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 220,
+    "title": "第二百零六话 战争",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/220_第二百零六话_战争.md",
+    "word_count": 6293,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 221,
+    "title": "第二百零七话 火急的通报与札诺巴的真意",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/221_第二百零七话_火急的通报与札诺巴的真意.md",
+    "word_count": 9075,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 222,
+    "title": "第二百零八话 往帕库斯之处",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/222_第二百零八话_往帕库斯之处.md",
+    "word_count": 7695,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 223,
+    "title": "第二百零九话 不管是谁都在空转",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/223_第二百零九话_不管是谁都在空转.md",
+    "word_count": 9757,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 224,
+    "title": "第二百一十话 战后",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/224_第二百一十话_战后.md",
+    "word_count": 8592,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 225,
+    "title": "第二百一十一话 札诺巴所选之路",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/225_第二百一十一话_札诺巴所选之路.md",
+    "word_count": 7881,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 226,
+    "title": "第二百一十二话 高兴就好",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/226_第二百一十二话_高兴就好.md",
+    "word_count": 5849,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 227,
+    "title": "第二百一十三话 今后的方向性与克里夫的烦恼",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/227_第二百一十三话_今后的方向性与克里夫的烦恼.md",
+    "word_count": 9191,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 228,
+    "title": "第二百一十四话 克里夫与札诺巴的毕业典礼",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/228_第二百一十四话_克里夫与札诺巴的毕业典礼.md",
+    "word_count": 7499,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 229,
+    "title": "间话 乡下人，到都市去",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/229_间话_乡下人，到都市去.md",
+    "word_count": 9090,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 230,
+    "title": "间话 成人式",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/230_间话_成人式.md",
+    "word_count": 8225,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 231,
+    "title": "第二百一十五话 成果与在此之后",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/231_第二百一十五话_成果与在此之后.md",
+    "word_count": 10259,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 232,
+    "title": "第二百一十六话 接下来往米里希昂……",
+    "volume": "第二十章 青年期 札诺巴篇",
+    "volume_num": 20,
+    "relative_path": "第20章_青年期_札诺巴篇/232_第二百一十六话_接下来往米里希昂…….md",
+    "word_count": 6093,
+    "light_novel_vol": "文库第 19 卷"
+  },
+  {
+    "id": 233,
+    "title": "第二百一十七话 克里夫，返回故乡",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/233_第二百一十七话_克里夫，返回故乡.md",
+    "word_count": 7685,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 234,
+    "title": "第二百一十八话 拉托雷亚家",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/234_第二百一十八话_拉托雷亚家.md",
+    "word_count": 8660,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 235,
+    "title": "第二百一十九话 米里斯教团本部",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/235_第二百一十九话_米里斯教团本部.md",
+    "word_count": 12127,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 236,
+    "title": "第二百二十话 见教皇，然后……",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/236_第二百二十话_见教皇，然后…….md",
+    "word_count": 7406,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 237,
+    "title": "第二百二十一话 装蒜",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/237_第二百二十一话_装蒜.md",
+    "word_count": 9730,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 238,
+    "title": "第二百二十二话 将死棋局",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/238_第二百二十二话_将死棋局.md",
+    "word_count": 11007,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 239,
+    "title": "第二百二十三话 跌倒捡到钱",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/239_第二百二十三话_跌倒捡到钱.md",
+    "word_count": 9763,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 240,
+    "title": "第二百二十四话 强势交涉",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/240_第二百二十四话_强势交涉.md",
+    "word_count": 10294,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 241,
+    "title": "第二百二十五话 有什么迷失了吗",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/241_第二百二十五话_有什么迷失了吗.md",
+    "word_count": 12277,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 242,
+    "title": "第二百二十六话 为了家族，为了女儿",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/242_第二百二十六话_为了家族，为了女儿.md",
+    "word_count": 10326,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 243,
+    "title": "第二百二十七话 为了恩义",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/243_第二百二十七话_为了恩义.md",
+    "word_count": 10788,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 244,
+    "title": "第二百二十八话 被背叛者逃跑",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/244_第二百二十八话_被背叛者逃跑.md",
+    "word_count": 7062,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 245,
+    "title": "间话 狂犬与神之子",
+    "volume": "第二十一章 青年期 克里夫篇",
+    "volume_num": 21,
+    "relative_path": "第21章_青年期_克里夫篇/245_间话_狂犬与神之子.md",
+    "word_count": 6003,
+    "light_novel_vol": "文库第 20~21 卷"
+  },
+  {
+    "id": 246,
+    "title": "第二百二十九话 回家、 报告、下一次的舞台",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/246_第二百二十九话_回家、_报告、下一次的舞台.md",
+    "word_count": 9438,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 247,
+    "title": "第二百三十话 死神的烦恼",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/247_第二百三十话_死神的烦恼.md",
+    "word_count": 5826,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 248,
+    "title": "第二百三十一话 王龙王国国王",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/248_第二百三十一话_王龙王国国王.md",
+    "word_count": 6269,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 249,
+    "title": "第二百三十二话 潜入涅可洛斯要塞",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/249_第二百三十二话_潜入涅可洛斯要塞.md",
+    "word_count": 6357,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 250,
+    "title": "第二百三十三话 恶战 魔王阿托菲",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/250_第二百三十三话_恶战_魔王阿托菲.md",
+    "word_count": 6290,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 251,
+    "title": "间章 我们，结婚了",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/251_间章_我们，结婚了.md",
+    "word_count": 6639,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 252,
+    "title": "第二百三十四话 第四人",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/252_第二百三十四话_第四人.md",
+    "word_count": 4482,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 253,
+    "title": "第二百三十五话 履约",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/253_第二百三十五话_履约.md",
+    "word_count": 7572,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 254,
+    "title": "第二百三十六话 回家的魔法阵",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/254_第二百三十六话_回家的魔法阵.md",
+    "word_count": 6896,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 255,
+    "title": "第二百三十七话 七星回家",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/255_第二百三十七话_七星回家.md",
+    "word_count": 7787,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 256,
+    "title": "第二百三十八话 第二只",
+    "volume": "第二十二章 青年期 组织篇",
+    "volume_num": 22,
+    "relative_path": "第22章_青年期_组织篇/256_第二百三十八话_第二只.md",
+    "word_count": 6949,
+    "light_novel_vol": "文库第 22~23 卷"
+  },
+  {
+    "id": 257,
+    "title": "第二百三十九话 作战会议",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/257_第二百三十九话_作战会议.md",
+    "word_count": 9494,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 258,
+    "title": "第二百四十话 曾经寻求之物",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/258_第二百四十话_曾经寻求之物.md",
+    "word_count": 10519,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 259,
+    "title": "第二百四十一话 曾经寻求之人",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/259_第二百四十一话_曾经寻求之人.md",
+    "word_count": 7930,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 260,
+    "title": "第二百四十二话 斯佩路德之村",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/260_第二百四十二话_斯佩路德之村.md",
+    "word_count": 11414,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 261,
+    "title": "第二百四十三话 冥王毕塔",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/261_第二百四十三话_冥王毕塔.md",
+    "word_count": 8950,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 262,
+    "title": "第二百四十四话 瘟疫",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/262_第二百四十四话_瘟疫.md",
+    "word_count": 9690,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 263,
+    "title": "第二百四十五话 天才",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/263_第二百四十五话_天才.md",
+    "word_count": 9179,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 264,
+    "title": "第二百四十六话 首都",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/264_第二百四十六话_首都.md",
+    "word_count": 9475,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 265,
+    "title": "第二百四十七话 四天三夜 斯佩路德族校外教学",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/265_第二百四十七话_四天三夜_斯佩路德族校外教学.md",
+    "word_count": 8617,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 266,
+    "title": "第二百四十八话 消失",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/266_第二百四十八话_消失.md",
+    "word_count": 6352,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 267,
+    "title": "第二百四十九话 地龙谷底",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/267_第二百四十九话_地龙谷底.md",
+    "word_count": 8827,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 268,
+    "title": "第二百五十话 掌握胜机",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/268_第二百五十话_掌握胜机.md",
+    "word_count": 10267,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 269,
+    "title": "第二百五十一话 狂剑王vs前剑神",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/269_第二百五十一话_狂剑王vs前剑神.md",
+    "word_count": 6163,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 270,
+    "title": "第二百五十二话 三世vs二世+α",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/270_第二百五十二话_三世vs二世+α.md",
+    "word_count": 8557,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 271,
+    "title": "第二百五十三话 北神三世vsDeadEnd+α",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/271_第二百五十三话_北神三世vsDeadEnd+α.md",
+    "word_count": 9340,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 272,
+    "title": "第二百五十四话 亚历山大vs鲁迪乌斯",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/272_第二百五十四话_亚历山大vs鲁迪乌斯.md",
+    "word_count": 7828,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 273,
+    "title": "第二百五十五话 鬼神的谈合",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/273_第二百五十五话_鬼神的谈合.md",
+    "word_count": 10956,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 274,
+    "title": "第二百五十六话 斗神的威胁",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/274_第二百五十六话_斗神的威胁.md",
+    "word_count": 7036,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 275,
+    "title": "第二百五十七话 王牌",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/275_第二百五十七话_王牌.md",
+    "word_count": 10943,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 276,
+    "title": "第二百五十八话 转捩点5",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/276_第二百五十八话_转捩点5.md",
+    "word_count": 14452,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 277,
+    "title": "第二百五十九话 战斗的终结",
+    "volume": "第二十三章 青年期 决战篇",
+    "volume_num": 23,
+    "relative_path": "第23章_青年期_决战篇/277_第二百五十九话_战斗的终结.md",
+    "word_count": 11343,
+    "light_novel_vol": "文库第 24~25 卷"
+  },
+  {
+    "id": 278,
+    "title": "第二百六十话 最后之梦",
+    "volume": "第二十四章 完结篇",
+    "volume_num": 24,
+    "relative_path": "第24章_完结篇/278_第二百六十话_最后之梦.md",
+    "word_count": 5377,
+    "light_novel_vol": "文库第 26 卷"
+  },
+  {
+    "id": 279,
+    "title": "第二百六十一话 34岁",
+    "volume": "第二十四章 完结篇",
+    "volume_num": 24,
+    "relative_path": "第24章_完结篇/279_第二百六十一话_34岁.md",
+    "word_count": 4594,
+    "light_novel_vol": "文库第 26 卷"
+  },
+  {
+    "id": 280,
+    "title": "间话 阿斯拉王国人物录 鲁迪乌斯·格雷拉特",
+    "volume": "第二十四章 完结篇",
+    "volume_num": 24,
+    "relative_path": "第24章_完结篇/280_间话_阿斯拉王国人物录_鲁迪乌斯_格雷拉特.md",
+    "word_count": 7625,
+    "light_novel_vol": "文库第 26 卷"
+  },
+  {
+    "id": 281,
+    "title": "最终话 死后的世界",
+    "volume": "第二十四章 完结篇",
+    "volume_num": 24,
+    "relative_path": "第24章_完结篇/281_最终话_死后的世界.md",
+    "word_count": 3506,
+    "light_novel_vol": "文库第 26 卷"
+  },
+  {
+    "id": 282,
+    "title": "终曲 Prologue Zero",
+    "volume": "第二十四章 完结篇",
+    "volume_num": 24,
+    "relative_path": "第24章_完结篇/282_终曲_Prologue_Zero.md",
+    "word_count": 5342,
+    "light_novel_vol": "文库第 26 卷"
+  },
+  {
+    "id": 283,
+    "title": "译者的话 (Wi3000) -",
+    "volume": "译者的话 (Wi3000) -",
+    "volume_num": 0,
+    "relative_path": "附录_译者的话_(Wi3000)_-/283_译者的话_(Wi3000)_-.md",
+    "word_count": 591,
+    "light_novel_vol": "外传 / 后记附录"
+  }
+]
